@@ -1,0 +1,38 @@
+
+c
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(òØ°Ôşÿÿÿÿ
+F
+java:S1481"-Remove this unused "username" local variable.(Ö¡Œ‰ûÿÿÿÿ
+Œ
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(Øúˆ^
+\
+java:S1192"HDefine a constant instead of duplicating this literal "success" 5 times.(ùØ
+’
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(®åÁıÿÿÿÿ
+’
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(õƒÏùÿÿÿÿ
+U
+java:S1854"<Remove this useless assignment to local variable "username".(Ö¡Œ‰ûÿÿÿÿ
+^
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ª—ŸÇ
+c
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ˆú¿Æøÿÿÿÿ
+P
+java:S1854"<Remove this useless assignment to local variable "password".(ÀÜÜü
+’
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(»şµÏıÿÿÿÿ
+c
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(´ÿâùÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(á‰»Á
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ê Ùáøÿÿÿÿ
+A
+java:S1481"-Remove this unused "password" local variable.(ÀÜÜü
+L	java:S106"9Replace this use of System.out or System.err by a logger.(‹£¸’
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¬¦¾ç
+u
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "user".(¸•ÊÑıÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(“İÆùÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ãÈ¸şÿÿÿÿ
+c
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¤ıÅùÿÿÿÿ

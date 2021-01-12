@@ -1,0 +1,15 @@
+
+c
+java:S11921"FDefine a constant instead of duplicating this literal "login" 3 times.(Íı‡Ç8¶Ÿ¤„ï.
+`
+java:S1128	"CRemove this unused import 'com.huadi.service.impl.UserServiceImpl'.(š…é8¶Ÿ¤„ï.
+c
+java:S1128"FRemove this unused import 'com.huadi.service.impl.AccountServiceImpl'.(´›ÿî8¶Ÿ¤„ï.
+•
+java:S1130$"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(„ú€#8¶Ÿ¤„ï.
+j
+java:S4488!"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(­±»ëşÿÿÿÿ8¶Ÿ¤„ï.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(÷Ô˜êÿÿÿÿÿ8¶Ÿ¤„ï.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(¼“û‹8¶Ÿ¤„ï.
+g
+java:S44888"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÚŞ•8¶Ÿ¤„ï.

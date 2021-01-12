@@ -1,0 +1,4 @@
+
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÑÓ÷øÿÿÿÿ
+c
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ëä¢Œþÿÿÿÿ

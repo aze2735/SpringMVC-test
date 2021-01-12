@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c5feb7f-1703-46e5-b150-4ee6a8ab9850" name="Default Changelist" comment="杨荣智提交">
+    <list default="true" id="6c5feb7f-1703-46e5-b150-4ee6a8ab9850" name="Default Changelist" comment="杨荣智第二次提交">
       <change afterPath="$PROJECT_DIR$/../com.alan - 1.5  21：30/com.alan.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.alan - 1.5  21：30/src/main/java/com/alan/controller/FileUploadController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../com.alan - 1.5  21：30/src/main/java/com/alan/controller/LoginController.java" afterDir="false" />
@@ -611,6 +611,56 @@
       <change afterPath="$PROJECT_DIR$/../top.alan/target/top.alan/login.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../top.alan/target/top.alan/show.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../top.alan/target/top.alan/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis/accountMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis/accountMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/controller/AdminContoller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/controller/AdminContoller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/controller/FileUploadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/controller/FileUploadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/dao/AccountDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/dao/AccountDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/dao/impl/AccountDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/dao/impl/AccountDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/mapper/AccountMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/mapper/AccountMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/pojo/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/pojo/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/service/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/service/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/util/DBCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/com/huadi/util/DBCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/mybatis/accountMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/mybatis/accountMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/mybatis/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVC_Test/WEB-INF/classes/mybatis/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/controller/AdminContoller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/controller/AdminContoller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/controller/FileUploadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/controller/FileUploadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/dao/AccountDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/dao/AccountDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/dao/impl/AccountDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/dao/impl/AccountDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/mapper/AccountMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/mapper/AccountMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/pojo/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/pojo/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/service/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/service/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/huadi/util/DBCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/huadi/util/DBCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mybatis/accountMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mybatis/accountMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mybatis/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mybatis/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.hh/demo1/.idea/sonarlint/issuestore/6/c/6c6d4d296e11155042237dd9a4a59f968fbde69a" beforeDir="false" afterPath="$PROJECT_DIR$/../com.hh/demo1/.idea/sonarlint/issuestore/6/c/6c6d4d296e11155042237dd9a4a59f968fbde69a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.hh/demo1/.idea/sonarlint/issuestore/8/a/8a68248d07541e4c47b81b0c8a2aa031de8dabc6" beforeDir="false" afterPath="$PROJECT_DIR$/../com.hh/demo1/.idea/sonarlint/issuestore/8/a/8a68248d07541e4c47b81b0c8a2aa031de8dabc6" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../com.hh/demo1/.idea/sonarlint/issuestore/8/b/8b471ee8e827bfe88267b7bb28aed26cd7e9daad" beforeDir="false" afterPath="$PROJECT_DIR$/../com.hh/demo1/.idea/sonarlint/issuestore/8/b/8b471ee8e827bfe88267b7bb28aed26cd7e9daad" afterDir="false" />
@@ -754,7 +804,13 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -810,7 +866,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="userSettingsFile" value="H:\JAVA\apache-maven-3.5.4\conf\settings.xml" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -933,10 +990,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -950,7 +1008,13 @@
       <recent name="E:\idea_workspace\SpringMVC_Test\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.tomcat8.5">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat">
     <configuration name="DBCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.huadi.util.DBCollection" />
       <module name="SpringMVC_Test" />
@@ -964,19 +1028,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tomcat8.5" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.282" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:7070/SpringMVC_Test/" />
+    <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.92" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/SpringMVC_Test/" />
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
         <artifact name="SpringMVC_Test:war">
@@ -987,7 +1053,6 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_SpringMVC_Test" />
-        <option name="HTTP_PORT" value="7070" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -1027,6 +1092,21 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -1051,7 +1131,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.DBCollection" />
-      <item itemvalue="Tomcat Server.tomcat8.5" />
+      <item itemvalue="Tomcat Server.tomcat" />
     </list>
     <recent_temporary>
       <list>
@@ -1087,7 +1167,7 @@
       <workItem from="1610258655163" duration="5832000" />
       <workItem from="1610284519623" duration="2108000" />
       <workItem from="1610325455604" duration="1867000" />
-      <workItem from="1610345599574" duration="2510000" />
+      <workItem from="1610345599574" duration="9748000" />
     </task>
     <task id="LOCAL-00001" summary="杨荣智提交">
       <created>1610349657082</created>
@@ -1096,7 +1176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610349657083</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="杨荣智第二次提交">
+      <created>1610350039799</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610350039799</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1158,7 +1245,8 @@
     <MESSAGE value="first&#10;&#10;Signed-off-by: aze2735 &lt;2735545128@qq.com&gt;" />
     <MESSAGE value="first commit" />
     <MESSAGE value="杨荣智提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="杨荣智提交" />
+    <MESSAGE value="杨荣智第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="杨荣智第二次提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.3.RELEASE/spring-webmvc-4.1.3.RELEASE-sources.jar!/org/springframework/web/servlet/view/json/MappingJackson2JsonView.java">
